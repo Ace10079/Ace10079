@@ -1,4 +1,4 @@
-![logo](https://images.app.goo.gl/aN3AYL78rxDPHUfk6)
+![logo]([https://images.app.goo.gl/aN3AYL78rxDPHUfk6])
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A dedicated technology enthusiast, passionate about expanding skills and knowledge in cutting-edge development technologies.</h3>
 <img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
